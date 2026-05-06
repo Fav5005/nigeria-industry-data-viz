@@ -20,7 +20,7 @@ This project aims to provide insights into the **industrial landscape of Nigeria
 - **Exploring** the historical timeline of company foundations in Nigeria.
 - **Visualizing** the geographical concentration of corporate headquarters.
 
-<img width="361" height="284" alt="Visualization in Python" src="https://github.com/user-attachments/assets/0d3c5cdb-b3bb-436c-bd67-d4b903681dff" />
+<img width="827" height="659" alt="Screenshot 2026-05-06 111612" src="https://github.com/user-attachments/assets/0df18f12-df1f-4225-8019-9a1372340f0f" />
 
 ---
 
